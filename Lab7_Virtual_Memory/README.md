@@ -1,6 +1,6 @@
-Author: Vineet Madan
-Date: 7 Nov 2019
-Purpose: OS Lab Assignment 7
+Author: Vineet Madan<br>
+Date: 7 Nov 2019<br>
+Purpose: OS Lab Assignment 7<br>
 
 Note: See the format of addresses.txt for input format.
 
